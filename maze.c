@@ -1,5 +1,6 @@
 
 /* Maze is a 4 level game demo using CNLohr's rawdraw-android simple.c file as a template. 
+   See https://github.com/cnlohr/rawdrawandroid
 
 */
 
