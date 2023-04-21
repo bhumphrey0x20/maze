@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">maze</string>
+    <string name="lib_name">maze</string>
+    <string name="package_name">org.screw32.maze</string>
+</resources>
+
