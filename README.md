@@ -1,6 +1,6 @@
 # Maze
 
-Maze is a simple game written to test out the functionality of rawdraw-android. This was the first app I wrote with rawdraw-android. The mazes were designed by a 4th grader and two kindergardener.
+Maze is a simple game demo written to test out the functionality of rawdraw-android. It uses the accelerometer in the android device to move the character (hummingbird) to the end target (flower). The mazes were designed by a 4th grader and two kindergardeners.
 
 
 ## To use this app
@@ -13,3 +13,5 @@ Maze is a simple game written to test out the functionality of rawdraw-android. 
  * Finally, in the new makefile you will need to change the value of `ANDROIDVERSION?=` to your version of Android. 
 
 Good Luck!
+
+<img src=https://user-images.githubusercontent.com/38211805/233652955-54ddb0ad-f779-48d1-a93e-e687ba2eb187.png height="200" width="360"/>
