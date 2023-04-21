@@ -8,6 +8,8 @@ Maze is a simple game written to test out the functionality of rawdraw-android. 
 
  * Next replace the Makefile, AndroidManifest.xml, and strings.xml (strings.xml is located in the ./sources/res/values folder) of the rawdraw-android repo with the corresponding files in the Maze repo.
  
+ * Move the remaining files to the rawdraw-android repo. 
+ 
  * Finally, in the new makefile you will need to change the value of `ANDROIDVERSION?=` to your version of Android. 
 
 Good Luck!
