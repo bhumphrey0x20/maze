@@ -1,6 +1,11 @@
 //Copyright (c) 2011-2020 <>< Charles Lohr - Under the MIT/x11 or NewBSD License you choose.
 // NO WARRANTY! NO GUARANTEE OF SUPPORT! USE AT YOUR OWN RISK
 
+/* Maze is a 4 level game demo using CNLohr's rawdraw-android as a template. 
+
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
